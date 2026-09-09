@@ -41,7 +41,7 @@ A data breach detection and removal web app. Built with a 4-person team; I led t
 ![Man City](https://img.shields.io/badge/Man_City-6CABDD?style=for-the-badge)
 ![Basketball](https://img.shields.io/badge/🏀_Basketball-E85D04?style=for-the-badge)
 ![Gym](https://img.shields.io/badge/🏋️_Gym-333333?style=for-the-badge)
-![PC Gaming](https://img.shields.io/badge/🎮_PC_Gaming-5865F2?style=for-the-badge)
+![Gaming](https://img.shields.io/badge/🎮_PC_Gaming-5865F2?style=for-the-badge)
 ![Travel](https://img.shields.io/badge/✈️_Travel-00A8CC?style=for-the-badge)
 
 ### 🎯 What I'm Looking For
