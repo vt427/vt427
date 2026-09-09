@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tvk1012)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vt427@drexel.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tvk1012)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vt427@drexel.edu)
 [![Resume](https://img.shields.io/badge/Resume-4B4B4B?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1NYAe2DpUKcPkNnxwQjozypNw9_3Uofd1/view?usp=sharing)
 
 </div>
@@ -35,16 +35,14 @@ A data breach detection and removal web app. Built with a 4-person team; I led t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-### 📊 GitHub Stats
+### ⚽ Outside of Code
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vt427&show_icons=true&theme=tokyonight&hide_border=true" alt="Khang's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vt427&theme=tokyonight&hide_border=true" alt="Khang's GitHub Streak" height="165"/>
-
-</div>
-
----
+![Soccer](https://img.shields.io/badge/⚽_Soccer-6DA544?style=for-the-badge)
+![Man City](https://img.shields.io/badge/Man_City-6CABDD?style=for-the-badge)
+![Basketball](https://img.shields.io/badge/🏀_Basketball-E85D04?style=for-the-badge)
+![Gym](https://img.shields.io/badge/🏋️_Gym-333333?style=for-the-badge)
+![PC Gaming](https://img.shields.io/badge/🎮_PC_Gaming-5865F2?style=for-the-badge)
+![Travel](https://img.shields.io/badge/✈️_Travel-00A8CC?style=for-the-badge)
 
 ### 🎯 What I'm Looking For
 
